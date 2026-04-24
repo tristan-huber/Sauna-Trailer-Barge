@@ -2022,6 +2022,10 @@
                         {
                           "name": "radius",
                           "ioValue": 20
+                        },
+                        {
+                          "name": "inputShape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -2036,6 +2040,10 @@
                         {
                           "name": "radius",
                           "ioValue": 2
+                        },
+                        {
+                          "name": "inputShape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -3766,6 +3774,10 @@
                             {
                               "name": "Angle",
                               "ioValue": 120
+                            },
+                            {
+                              "name": "Shape",
+                              "ioValue": "__GEOMETRY_INPUT__"
                             }
                           ],
                           "codeVersion": 1,
@@ -4547,6 +4559,10 @@
                     {
                       "name": "scaleFactor",
                       "ioValue": 65
+                    },
+                    {
+                      "name": "inputShape",
+                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
@@ -7593,6 +7609,10 @@
                                 {
                                   "name": "radius",
                                   "ioValue": 4
+                                },
+                                {
+                                  "name": "inputShape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -8990,6 +9010,10 @@
                         {
                           "name": "Dist",
                           "ioValue": 152
+                        },
+                        {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -9919,6 +9943,10 @@
                         {
                           "name": "Dist",
                           "ioValue": 1219.1999999999998
+                        },
+                        {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -19302,10 +19330,6 @@
                                 {
                                   "name": "distZ",
                                   "ioValue": 0
-                                },
-                                {
-                                  "name": "Shape",
-                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -19371,6 +19395,10 @@
                                 {
                                   "name": "distZ",
                                   "ioValue": 0
+                                },
+                                {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -21005,6 +21033,10 @@
                                 {
                                   "name": "distZ",
                                   "ioValue": 0
+                                },
+                                {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -21070,10 +21102,6 @@
                                 {
                                   "name": "distZ",
                                   "ioValue": 0
-                                },
-                                {
-                                  "name": "Shape",
-                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -21414,6 +21442,10 @@
                                 {
                                   "name": "distZ",
                                   "ioValue": 0
+                                },
+                                {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -21479,10 +21511,6 @@
                                 {
                                   "name": "distZ",
                                   "ioValue": 0
-                                },
-                                {
-                                  "name": "Shape",
-                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -21859,30 +21887,7 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": {
-                                    "geometry": "rectangle-10-38.099999999999994",
-                                    "dimension": "2D",
-                                    "plane": {
-                                      "origin": [
-                                        0,
-                                        0,
-                                        0
-                                      ],
-                                      "xDir": [
-                                        1,
-                                        0,
-                                        0
-                                      ],
-                                      "normal": [
-                                        0,
-                                        0,
-                                        1
-                                      ]
-                                    },
-                                    "color": "#aad7f2",
-                                    "tags": [],
-                                    "bom": []
-                                  }
+                                  "ioValue": null
                                 },
                                 {
                                   "name": "Shape 4",
@@ -24062,30 +24067,7 @@
                             },
                             {
                               "name": "Shape 2",
-                              "ioValue": {
-                                "geometry": "circle-4.25",
-                                "dimension": "2D",
-                                "tags": [],
-                                "plane": {
-                                  "origin": [
-                                    0,
-                                    0,
-                                    0
-                                  ],
-                                  "xDir": [
-                                    1,
-                                    0,
-                                    0
-                                  ],
-                                  "normal": [
-                                    0,
-                                    0,
-                                    1
-                                  ]
-                                },
-                                "color": "#aad7f2",
-                                "bom": []
-                              }
+                              "ioValue": null
                             },
                             {
                               "name": "Shape 3",
@@ -24451,30 +24433,7 @@
                             },
                             {
                               "name": "Shape 2",
-                              "ioValue": {
-                                "geometry": "circle-6.5",
-                                "dimension": "2D",
-                                "tags": [],
-                                "plane": {
-                                  "origin": [
-                                    0,
-                                    0,
-                                    0
-                                  ],
-                                  "xDir": [
-                                    1,
-                                    0,
-                                    0
-                                  ],
-                                  "normal": [
-                                    0,
-                                    0,
-                                    1
-                                  ]
-                                },
-                                "color": "#aad7f2",
-                                "bom": []
-                              }
+                              "ioValue": null
                             },
                             {
                               "name": "Shape 3",
@@ -28483,30 +28442,7 @@
                             },
                             {
                               "name": "Shape 3",
-                              "ioValue": {
-                                "geometry": "circle-20",
-                                "dimension": "2D",
-                                "tags": [],
-                                "plane": {
-                                  "origin": [
-                                    0,
-                                    0,
-                                    0
-                                  ],
-                                  "xDir": [
-                                    1,
-                                    0,
-                                    0
-                                  ],
-                                  "normal": [
-                                    0,
-                                    0,
-                                    1
-                                  ]
-                                },
-                                "color": "#aad7f2",
-                                "bom": []
-                              }
+                              "ioValue": null
                             },
                             {
                               "name": "Shape 4",
@@ -28995,30 +28931,7 @@
                                 },
                                 {
                                   "name": "Shape 2",
-                                  "ioValue": {
-                                    "geometry": "circle-19.25",
-                                    "dimension": "2D",
-                                    "tags": [],
-                                    "plane": {
-                                      "origin": [
-                                        0,
-                                        0,
-                                        0
-                                      ],
-                                      "xDir": [
-                                        1,
-                                        0,
-                                        0
-                                      ],
-                                      "normal": [
-                                        0,
-                                        0,
-                                        1
-                                      ]
-                                    },
-                                    "color": "#aad7f2",
-                                    "bom": []
-                                  }
+                                  "ioValue": null
                                 },
                                 {
                                   "name": "Shape 3",
@@ -33140,30 +33053,7 @@
                                 },
                                 {
                                   "name": "Shape 2",
-                                  "ioValue": {
-                                    "geometry": "circle-6",
-                                    "dimension": "2D",
-                                    "tags": [],
-                                    "plane": {
-                                      "origin": [
-                                        0,
-                                        0,
-                                        0
-                                      ],
-                                      "xDir": [
-                                        1,
-                                        0,
-                                        0
-                                      ],
-                                      "normal": [
-                                        0,
-                                        0,
-                                        1
-                                      ]
-                                    },
-                                    "color": "#aad7f2",
-                                    "bom": []
-                                  }
+                                  "ioValue": null
                                 },
                                 {
                                   "name": "Shape 3",
@@ -40318,6 +40208,10 @@
                         {
                           "name": "Dist",
                           "ioValue": 107.47
+                        },
+                        {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -43238,6 +43132,10 @@
                             {
                               "name": "Angle",
                               "ioValue": 60
+                            },
+                            {
+                              "name": "Shape",
+                              "ioValue": "__GEOMETRY_INPUT__"
                             }
                           ],
                           "codeVersion": 1,
@@ -45020,6 +44918,10 @@
                                 {
                                   "name": "Angle",
                                   "ioValue": 90
+                                },
+                                {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -46789,6 +46691,10 @@
                                 {
                                   "name": "Angle",
                                   "ioValue": 45
+                                },
+                                {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -48936,6 +48842,10 @@
                                 {
                                   "name": "Dist",
                                   "ioValue": 800
+                                },
+                                {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -52832,6 +52742,10 @@
                                 {
                                   "name": "radius",
                                   "ioValue": 3
+                                },
+                                {
+                                  "name": "inputShape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -54590,30 +54504,7 @@
                                     },
                                     {
                                       "name": "Shape 2",
-                                      "ioValue": {
-                                        "geometry": "circle-4.25",
-                                        "dimension": "2D",
-                                        "tags": [],
-                                        "plane": {
-                                          "origin": [
-                                            0,
-                                            0,
-                                            0
-                                          ],
-                                          "xDir": [
-                                            1,
-                                            0,
-                                            0
-                                          ],
-                                          "normal": [
-                                            0,
-                                            0,
-                                            1
-                                          ]
-                                        },
-                                        "color": "#aad7f2",
-                                        "bom": []
-                                      }
+                                      "ioValue": null
                                     }
                                   ],
                                   "closedSelection": 0
@@ -54907,30 +54798,7 @@
                                     },
                                     {
                                       "name": "Shape 2",
-                                      "ioValue": {
-                                        "geometry": "circle-1.5",
-                                        "dimension": "2D",
-                                        "tags": [],
-                                        "plane": {
-                                          "origin": [
-                                            0,
-                                            0,
-                                            0
-                                          ],
-                                          "xDir": [
-                                            1,
-                                            0,
-                                            0
-                                          ],
-                                          "normal": [
-                                            0,
-                                            0,
-                                            1
-                                          ]
-                                        },
-                                        "color": "#aad7f2",
-                                        "bom": []
-                                      }
+                                      "ioValue": null
                                     },
                                     {
                                       "name": "Shape 3",
@@ -58092,30 +57960,7 @@
                             },
                             {
                               "name": "Shape 2",
-                              "ioValue": {
-                                "geometry": "rectangle-5-30",
-                                "dimension": "2D",
-                                "plane": {
-                                  "origin": [
-                                    0,
-                                    0,
-                                    0
-                                  ],
-                                  "xDir": [
-                                    1,
-                                    0,
-                                    0
-                                  ],
-                                  "normal": [
-                                    0,
-                                    0,
-                                    1
-                                  ]
-                                },
-                                "color": "#aad7f2",
-                                "tags": [],
-                                "bom": []
-                              }
+                              "ioValue": null
                             }
                           ],
                           "unionType": "Fusion"
@@ -58382,30 +58227,7 @@
                                     },
                                     {
                                       "name": "Shape 2",
-                                      "ioValue": {
-                                        "geometry": "circle-1.5",
-                                        "dimension": "2D",
-                                        "tags": [],
-                                        "plane": {
-                                          "origin": [
-                                            0,
-                                            0,
-                                            0
-                                          ],
-                                          "xDir": [
-                                            1,
-                                            0,
-                                            0
-                                          ],
-                                          "normal": [
-                                            0,
-                                            0,
-                                            1
-                                          ]
-                                        },
-                                        "color": "#aad7f2",
-                                        "bom": []
-                                      }
+                                      "ioValue": null
                                     },
                                     {
                                       "name": "Shape 3",
@@ -59551,6 +59373,10 @@
                                     {
                                       "name": "radius",
                                       "ioValue": 5
+                                    },
+                                    {
+                                      "name": "inputShape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -60120,30 +59946,7 @@
                                     },
                                     {
                                       "name": "Shape 2",
-                                      "ioValue": {
-                                        "geometry": "circle-4.25",
-                                        "dimension": "2D",
-                                        "tags": [],
-                                        "plane": {
-                                          "origin": [
-                                            0,
-                                            0,
-                                            0
-                                          ],
-                                          "xDir": [
-                                            1,
-                                            0,
-                                            0
-                                          ],
-                                          "normal": [
-                                            0,
-                                            0,
-                                            1
-                                          ]
-                                        },
-                                        "color": "#aad7f2",
-                                        "bom": []
-                                      }
+                                      "ioValue": null
                                     }
                                   ],
                                   "closedSelection": 0
@@ -60438,30 +60241,7 @@
                                     },
                                     {
                                       "name": "Shape 2",
-                                      "ioValue": {
-                                        "geometry": "circle-1.5",
-                                        "dimension": "2D",
-                                        "tags": [],
-                                        "plane": {
-                                          "origin": [
-                                            0,
-                                            0,
-                                            0
-                                          ],
-                                          "xDir": [
-                                            1,
-                                            0,
-                                            0
-                                          ],
-                                          "normal": [
-                                            0,
-                                            0,
-                                            1
-                                          ]
-                                        },
-                                        "color": "#aad7f2",
-                                        "bom": []
-                                      }
+                                      "ioValue": null
                                     },
                                     {
                                       "name": "Shape 3",
@@ -61894,6 +61674,10 @@
                             {
                               "name": "distZ",
                               "ioValue": 0
+                            },
+                            {
+                              "name": "Shape",
+                              "ioValue": "__GEOMETRY_INPUT__"
                             }
                           ],
                           "codeVersion": 1,
@@ -62322,30 +62106,7 @@
                                 },
                                 {
                                   "name": "Shape 2",
-                                  "ioValue": {
-                                    "geometry": "circle-25",
-                                    "dimension": "2D",
-                                    "tags": [],
-                                    "plane": {
-                                      "origin": [
-                                        0,
-                                        0,
-                                        0
-                                      ],
-                                      "xDir": [
-                                        1,
-                                        0,
-                                        0
-                                      ],
-                                      "normal": [
-                                        0,
-                                        0,
-                                        1
-                                      ]
-                                    },
-                                    "color": "#aad7f2",
-                                    "bom": []
-                                  }
+                                  "ioValue": null
                                 },
                                 {
                                   "name": "Shape 3",
@@ -62637,30 +62398,7 @@
                             },
                             {
                               "name": "Shape 2",
-                              "ioValue": {
-                                "geometry": "circle-12.5",
-                                "dimension": "2D",
-                                "tags": [],
-                                "plane": {
-                                  "origin": [
-                                    0,
-                                    0,
-                                    0
-                                  ],
-                                  "xDir": [
-                                    1,
-                                    0,
-                                    0
-                                  ],
-                                  "normal": [
-                                    0,
-                                    0,
-                                    1
-                                  ]
-                                },
-                                "color": "#aad7f2",
-                                "bom": []
-                              }
+                              "ioValue": null
                             },
                             {
                               "name": "Shape 3",
@@ -62989,30 +62727,7 @@
                                 },
                                 {
                                   "name": "Shape 2",
-                                  "ioValue": {
-                                    "geometry": "circle-25",
-                                    "dimension": "2D",
-                                    "tags": [],
-                                    "plane": {
-                                      "origin": [
-                                        0,
-                                        0,
-                                        0
-                                      ],
-                                      "xDir": [
-                                        1,
-                                        0,
-                                        0
-                                      ],
-                                      "normal": [
-                                        0,
-                                        0,
-                                        1
-                                      ]
-                                    },
-                                    "color": "#aad7f2",
-                                    "bom": []
-                                  }
+                                  "ioValue": null
                                 },
                                 {
                                   "name": "Shape 3",
@@ -63575,6 +63290,10 @@
                             {
                               "name": "distZ",
                               "ioValue": 0
+                            },
+                            {
+                              "name": "Shape",
+                              "ioValue": "__GEOMETRY_INPUT__"
                             }
                           ],
                           "codeVersion": 1,
@@ -63640,6 +63359,10 @@
                             {
                               "name": "distZ",
                               "ioValue": 0
+                            },
+                            {
+                              "name": "Shape",
+                              "ioValue": "__GEOMETRY_INPUT__"
                             }
                           ],
                           "codeVersion": 1,
@@ -63957,10 +63680,6 @@
                                 {
                                   "name": "distZ",
                                   "ioValue": 0
-                                },
-                                {
-                                  "name": "Shape",
-                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -64026,6 +63745,10 @@
                                 {
                                   "name": "distZ",
                                   "ioValue": 0
+                                },
+                                {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -65034,6 +64757,14 @@
                                     {
                                       "name": "distZ",
                                       "ioValue": 0
+                                    },
+                                    {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
+                                    {
+                                      "name": "Number",
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -65099,6 +64830,10 @@
                                     {
                                       "name": "distZ",
                                       "ioValue": 0
+                                    },
+                                    {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -65286,6 +65021,10 @@
                                     {
                                       "name": "distZ",
                                       "ioValue": 0
+                                    },
+                                    {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -65351,6 +65090,10 @@
                                     {
                                       "name": "distZ",
                                       "ioValue": 0
+                                    },
+                                    {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -65538,6 +65281,10 @@
                                     {
                                       "name": "distZ",
                                       "ioValue": 0
+                                    },
+                                    {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -65603,6 +65350,10 @@
                                     {
                                       "name": "distZ",
                                       "ioValue": 0
+                                    },
+                                    {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -70983,6 +70734,10 @@
                                     {
                                       "name": "distZ",
                                       "ioValue": 0
+                                    },
+                                    {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -71048,6 +70803,10 @@
                                     {
                                       "name": "distZ",
                                       "ioValue": 0
+                                    },
+                                    {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -71240,6 +70999,10 @@
                                     {
                                       "name": "Angle",
                                       "ioValue": 90
+                                    },
+                                    {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -76723,6 +76486,10 @@
                                         {
                                           "name": "Dist",
                                           "ioValue": 25
+                                        },
+                                        {
+                                          "name": "Shape",
+                                          "ioValue": "__GEOMETRY_INPUT__"
                                         }
                                       ],
                                       "codeVersion": 1,
