@@ -38,8 +38,7 @@
         },
         {
           "name": "zDist",
-          "ioValue": 124.89999999999999,
-          "currentEquation": "18*2+3.5*25.4"
+          "ioValue": 124.89999999999999
         }
       ]
     },
@@ -435,13 +434,11 @@
           "ioValues": [
             {
               "name": "x length",
-              "ioValue": 1600.1999999999998,
-              "currentEquation": "63*25.4"
+              "ioValue": 1600.1999999999998
             },
             {
               "name": "y length",
-              "ioValue": 375.92,
-              "currentEquation": "14.8*25.4"
+              "ioValue": 375.92
             }
           ]
         },
@@ -457,8 +454,7 @@
             },
             {
               "name": "height",
-              "ioValue": 495.29999999999995,
-              "currentEquation": "19.5*25.4"
+              "ioValue": 495.29999999999995
             }
           ]
         },
@@ -600,13 +596,11 @@
           "ioValues": [
             {
               "name": "x length",
-              "ioValue": 88.89999999999999,
-              "currentEquation": "3.5*25.4"
+              "ioValue": 88.89999999999999
             },
             {
               "name": "y length",
-              "ioValue": 412.75,
-              "currentEquation": "16.25*25.4"
+              "ioValue": 412.75
             }
           ]
         },
@@ -622,8 +616,7 @@
             },
             {
               "name": "height",
-              "ioValue": 596.9,
-              "currentEquation": "23.5*25.4"
+              "ioValue": 596.9
             }
           ]
         },
@@ -647,8 +640,7 @@
             },
             {
               "name": "zDist",
-              "ioValue": 76.19999999999999,
-              "currentEquation": "3*25.4"
+              "ioValue": 76.19999999999999
             }
           ]
         },
@@ -664,8 +656,7 @@
             },
             {
               "name": "xDist",
-              "ioValue": 590.55,
-              "currentEquation": "23.25*25.4"
+              "ioValue": 590.55
             },
             {
               "name": "yDist",
@@ -689,8 +680,7 @@
             },
             {
               "name": "xDist",
-              "ioValue": -590.55,
-              "currentEquation": "-23.25*25.4"
+              "ioValue": -590.55
             },
             {
               "name": "yDist",
@@ -942,8 +932,7 @@
           "ioValues": [
             {
               "name": "Length",
-              "ioValue": 96,
-              "currentEquation": "12*8"
+              "ioValue": 96
             }
           ],
           "topLevel": false,
@@ -968,13 +957,11 @@
               "ioValues": [
                 {
                   "name": "x length",
-                  "ioValue": 101.6,
-                  "currentEquation": "4*25.4"
+                  "ioValue": 101.6
                 },
                 {
                   "name": "y length",
-                  "ioValue": 152.39999999999998,
-                  "currentEquation": "6*25.4"
+                  "ioValue": 152.39999999999998
                 }
               ]
             },
@@ -1044,7 +1031,7 @@
                 {
                   "name": "Item Name",
                   "ioValue": "96 2x6",
-                  "currentEquation": "New Item"
+                  "currentEquation": "96 2x6"
                 },
                 {
                   "name": "Number Needed",
@@ -1343,8 +1330,7 @@
             },
             {
               "name": "xDist",
-              "ioValue": 78,
-              "currentEquation": "60+18"
+              "ioValue": 78
             },
             {
               "name": "yDist",
@@ -1392,8 +1378,7 @@
             },
             {
               "name": "xDist",
-              "ioValue": 78,
-              "currentEquation": "60+18"
+              "ioValue": 78
             },
             {
               "name": "yDist",
@@ -1441,8 +1426,7 @@
             },
             {
               "name": "xDist",
-              "ioValue": 609.5999999999999,
-              "currentEquation": "24*25.4"
+              "ioValue": 609.5999999999999
             },
             {
               "name": "yDist",
@@ -1664,8 +1648,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": -840,
-                  "currentEquation": "-1040+200"
+                  "ioValue": -840
                 }
               ]
             },
@@ -1774,7 +1757,7 @@
                 {
                   "name": "Shape 1",
                   "ioValue": {
-                    "geometry": "fuse-move-rotate-extrude-circle-46.99-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-393.7-0-90-0--228.6-0-0-move-rotate-fuse-extrude-cut-circle-150-circle-149.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-fuse-assemblyFuse-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-6-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-7-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-8-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-9-extrude-circle-44.449999999999996-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-15-0--90-0--231-0-0",
+                    "geometry": "fuse-move-rotate-extrude-circle-46.99-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-393.7-0-90-0--228.6-0-0-move-rotate-fuse-extrude-cut-circle-150-circle-149.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-fuse-assemblyFuse-5ea22352-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-3-120-6-5ea22352-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-3-120-7-5ea22352-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-3-120-8-5ea22352-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-3-120-9-extrude-circle-44.449999999999996-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-15-0--90-0--231-0-0",
                     "tags": [],
                     "bom": [
                       [],
@@ -1989,8 +1972,7 @@
                   "ioValues": [
                     {
                       "name": "diameter",
-                      "ioValue": 38.099999999999994,
-                      "currentEquation": "1.5*25.4"
+                      "ioValue": 38.099999999999994
                     }
                   ]
                 },
@@ -2006,8 +1988,7 @@
                     },
                     {
                       "name": "height",
-                      "ioValue": 381,
-                      "currentEquation": "15*25.4"
+                      "ioValue": 381
                     }
                   ]
                 },
@@ -2046,7 +2027,7 @@
                       "ioValue": {
                         "geometry": [
                           {
-                            "geometry": "7ed87374-20-{\"geometry\":\"extrude-rectangle-200-80-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-80\",\"dimension\":\"3D\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-1",
+                            "geometry": "7ed87374-{\"geometry\":\"extrude-rectangle-200-80-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-80\",\"dimension\":\"3D\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"color\":\"#aad7f2\",\"tags\":[],\"bom\":[]}-20-1",
                             "dimension": "3D",
                             "plane": {
                               "origin": [
@@ -2143,8 +2124,7 @@
                     },
                     {
                       "name": "zDist",
-                      "ioValue": 37.5,
-                      "currentEquation": "75/2"
+                      "ioValue": 37.5
                     }
                   ]
                 },
@@ -2233,8 +2213,12 @@
                       "uniqueID": "id-217724",
                       "ioValues": [
                         {
+                          "name": "inputShape",
+                          "ioValue": "__GEOMETRY_INPUT__"
+                        },
+                        {
                           "name": "radius",
-                          "ioValue": 20
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -2246,6 +2230,10 @@
                       "y": 0.777158774373259,
                       "uniqueID": "id-217725",
                       "ioValues": [
+                        {
+                          "name": "inputShape",
+                          "ioValue": "__GEOMETRY_INPUT__"
+                        },
                         {
                           "name": "radius",
                           "ioValue": "__GEOMETRY_INPUT__"
@@ -2544,8 +2532,7 @@
                     },
                     {
                       "name": "yDist",
-                      "ioValue": 19.049999999999997,
-                      "currentEquation": "1.5*25.4/2"
+                      "ioValue": 19.049999999999997
                     },
                     {
                       "name": "zDist",
@@ -2569,8 +2556,7 @@
                     },
                     {
                       "name": "yDist",
-                      "ioValue": -19.049999999999997,
-                      "currentEquation": "-1.5*25.4/2"
+                      "ioValue": -19.049999999999997
                     },
                     {
                       "name": "zDist",
@@ -2646,8 +2632,7 @@
                     },
                     {
                       "name": "yDist",
-                      "ioValue": 54,
-                      "currentEquation": "108/2"
+                      "ioValue": 54
                     },
                     {
                       "name": "zDist",
@@ -2671,8 +2656,7 @@
                     },
                     {
                       "name": "yDist",
-                      "ioValue": -54,
-                      "currentEquation": "-108/2"
+                      "ioValue": -54
                     },
                     {
                       "name": "zDist",
@@ -3069,7 +3053,9 @@
                         },
                         {
                           "name": "Shape 3",
-                          "ioValue": null
+                          "ioValue": {
+                            "__NO_GEOMETRY__": true
+                          }
                         }
                       ]
                     },
@@ -3344,8 +3330,7 @@
                     },
                     {
                       "name": "height",
-                      "ioValue": 889,
-                      "currentEquation": "35*25.4"
+                      "ioValue": 889
                     }
                   ]
                 },
@@ -3780,8 +3765,7 @@
                   "ioValues": [
                     {
                       "name": "diameter",
-                      "ioValue": 93.98,
-                      "currentEquation": "3.7*25.4"
+                      "ioValue": 93.98
                     }
                   ]
                 },
@@ -3797,8 +3781,7 @@
                     },
                     {
                       "name": "height",
-                      "ioValue": 393.7,
-                      "currentEquation": "15.5*25.4"
+                      "ioValue": 393.7
                     }
                   ]
                 },
@@ -3838,8 +3821,7 @@
                     },
                     {
                       "name": "xDist",
-                      "ioValue": -228.6,
-                      "currentEquation": "-9*25.4"
+                      "ioValue": -228.6
                     },
                     {
                       "name": "yDist",
@@ -3908,7 +3890,7 @@
                     {
                       "name": "Shape 1",
                       "ioValue": {
-                        "geometry": "move-rotate-fuse-extrude-cut-circle-150-circle-149.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-fuse-assemblyFuse-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-6-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-7-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-8-5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-9-extrude-circle-44.449999999999996-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-15-0--90-0--231-0-0",
+                        "geometry": "move-rotate-fuse-extrude-cut-circle-150-circle-149.5-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-5-fuse-assemblyFuse-5ea22352-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-3-120-6-5ea22352-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-3-120-7-5ea22352-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-3-120-8-5ea22352-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-3-120-9-extrude-circle-44.449999999999996-{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]}-15-0--90-0--231-0-0",
                         "tags": [],
                         "bom": [
                           [],
@@ -3994,8 +3976,7 @@
                       "ioValues": [
                         {
                           "name": "diameter",
-                          "ioValue": 88.89999999999999,
-                          "currentEquation": "3.5*25.4"
+                          "ioValue": 88.89999999999999
                         }
                       ]
                     },
@@ -4023,8 +4004,7 @@
                       "ioValues": [
                         {
                           "name": "diameter",
-                          "ioValue": 38.099999999999994,
-                          "currentEquation": "1.5*25.4"
+                          "ioValue": 38.099999999999994
                         }
                       ]
                     },
@@ -4040,8 +4020,7 @@
                         },
                         {
                           "name": "xDist",
-                          "ioValue": 127,
-                          "currentEquation": "5*25.4"
+                          "ioValue": 127
                         },
                         {
                           "name": "yDist",
@@ -4128,7 +4107,9 @@
                         },
                         {
                           "name": "Shape 3",
-                          "ioValue": null
+                          "ioValue": {
+                            "__NO_GEOMETRY__": true
+                          }
                         }
                       ]
                     },
@@ -4159,7 +4140,7 @@
                           "ioValue": {
                             "geometry": [
                               {
-                                "geometry": "5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-6",
+                                "geometry": "5ea22352-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-3-120-6",
                                 "dimension": "3D",
                                 "tags": [],
                                 "color": "#aad7f2",
@@ -4187,7 +4168,7 @@
                               {
                                 "geometry": [
                                   {
-                                    "geometry": "5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-7",
+                                    "geometry": "5ea22352-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-3-120-7",
                                     "tags": [],
                                     "color": "#aad7f2",
                                     "bom": [
@@ -4213,7 +4194,7 @@
                                     "dimension": "3D"
                                   },
                                   {
-                                    "geometry": "5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-8",
+                                    "geometry": "5ea22352-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-3-120-8",
                                     "tags": [],
                                     "color": "#aad7f2",
                                     "bom": [
@@ -4264,7 +4245,7 @@
                                 "dimension": "3D"
                               },
                               {
-                                "geometry": "5ea22352-3-120-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-9",
+                                "geometry": "5ea22352-{\"geometry\":\"extrude-shrinkWrap-fuse-circle-44.449999999999996-move-circle-19.049999999999997-127-0-0-50-{\\\"origin\\\":[0,0,0],\\\"xDir\\\":[1,0,0],\\\"normal\\\":[0,0,1]}-10\",\"dimension\":\"3D\",\"tags\":[],\"color\":\"#aad7f2\",\"plane\":{\"origin\":[0,0,0],\"xDir\":[1,0,0],\"normal\":[0,0,1]},\"bom\":[[]]}-3-120-9",
                                 "dimension": "3D",
                                 "tags": [],
                                 "color": "#aad7f2",
@@ -4404,8 +4385,7 @@
                         },
                         {
                           "name": "Angle",
-                          "ioValue": 120,
-                          "currentEquation": "360/3"
+                          "ioValue": 120
                         }
                       ],
                       "topLevel": false,
@@ -4486,12 +4466,16 @@
                           "uniqueID": "id-217804",
                           "ioValues": [
                             {
+                              "name": "Shape",
+                              "ioValue": "__GEOMETRY_INPUT__"
+                            },
+                            {
                               "name": "Number",
-                              "ioValue": 3
+                              "ioValue": "__GEOMETRY_INPUT__"
                             },
                             {
                               "name": "Angle",
-                              "ioValue": 120
+                              "ioValue": "__GEOMETRY_INPUT__"
                             }
                           ],
                           "codeVersion": 1,
@@ -5140,13 +5124,11 @@
               "ioValues": [
                 {
                   "name": "x length",
-                  "ioValue": 609.5999999999999,
-                  "currentEquation": "24*25.4"
+                  "ioValue": 609.5999999999999
                 },
                 {
                   "name": "y length",
-                  "ioValue": 1219.1999999999998,
-                  "currentEquation": "48*25.4"
+                  "ioValue": 1219.1999999999998
                 }
               ]
             },
@@ -5271,8 +5253,12 @@
                   "uniqueID": "id-162636",
                   "ioValues": [
                     {
+                      "name": "inputShape",
+                      "ioValue": "__GEOMETRY_INPUT__"
+                    },
+                    {
                       "name": "scaleFactor",
-                      "ioValue": 65
+                      "ioValue": "__GEOMETRY_INPUT__"
                     }
                   ],
                   "codeVersion": 1,
@@ -5585,13 +5571,11 @@
                   "ioValues": [
                     {
                       "name": "x length",
-                      "ioValue": 609.5999999999999,
-                      "currentEquation": "24*25.4"
+                      "ioValue": 609.5999999999999
                     },
                     {
                       "name": "y length",
-                      "ioValue": 1219.1999999999998,
-                      "currentEquation": "48*25.4"
+                      "ioValue": 1219.1999999999998
                     }
                   ]
                 },
@@ -6024,7 +6008,7 @@
                         },
                         {
                           "name": "Shape 5",
-                          "ioValue": ""
+                          "ioValue": null
                         }
                       ]
                     }
@@ -6596,7 +6580,7 @@
                         },
                         {
                           "name": "Shape 5",
-                          "ioValue": ""
+                          "ioValue": null
                         }
                       ]
                     }
@@ -7217,7 +7201,7 @@
                             },
                             {
                               "name": "Shape 5",
-                              "ioValue": ""
+                              "ioValue": null
                             }
                           ]
                         }
@@ -8066,8 +8050,7 @@
                         },
                         {
                           "name": "xDist",
-                          "ioValue": -43,
-                          "currentEquation": "-86/2"
+                          "ioValue": -43
                         },
                         {
                           "name": "yDist",
@@ -8091,8 +8074,7 @@
                         },
                         {
                           "name": "xDist",
-                          "ioValue": 43,
-                          "currentEquation": "86/2"
+                          "ioValue": 43
                         },
                         {
                           "name": "yDist",
@@ -8298,8 +8280,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": 43.25,
-                              "currentEquation": "86.5/2"
+                              "ioValue": 43.25
                             },
                             {
                               "name": "zDist",
@@ -8323,8 +8304,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": -43.25,
-                              "currentEquation": "-86.5/2"
+                              "ioValue": -43.25
                             },
                             {
                               "name": "zDist",
@@ -8743,8 +8723,12 @@
                               "uniqueID": "id-127460",
                               "ioValues": [
                                 {
+                                  "name": "inputShape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
+                                },
+                                {
                                   "name": "radius",
-                                  "ioValue": 4
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -8756,6 +8740,10 @@
                               "y": 0.777158774373259,
                               "uniqueID": "id-127461",
                               "ioValues": [
+                                {
+                                  "name": "inputShape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
+                                },
                                 {
                                   "name": "radius",
                                   "ioValue": "__GEOMETRY_INPUT__"
@@ -8980,8 +8968,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": -44.5,
-                              "currentEquation": "-109/2+10"
+                              "ioValue": -44.5
                             },
                             {
                               "name": "yDist",
@@ -9005,8 +8992,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": 44.5,
-                              "currentEquation": "109/2-10"
+                              "ioValue": 44.5
                             },
                             {
                               "name": "yDist",
@@ -9093,7 +9079,9 @@
                             },
                             {
                               "name": "Shape 3",
-                              "ioValue": null
+                              "ioValue": {
+                                "__NO_GEOMETRY__": true
+                              }
                             }
                           ]
                         },
@@ -9141,8 +9129,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": -41.5,
-                              "currentEquation": "-83/2"
+                              "ioValue": -41.5
                             },
                             {
                               "name": "yDist",
@@ -9166,8 +9153,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": 41.5,
-                              "currentEquation": "83/2"
+                              "ioValue": 41.5
                             },
                             {
                               "name": "yDist",
@@ -9687,7 +9673,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 }
                               ]
                             }
@@ -10324,12 +10310,16 @@
                       "uniqueID": "id-115435",
                       "ioValues": [
                         {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
+                        },
+                        {
                           "name": "Number",
-                          "ioValue": 16
+                          "ioValue": "__GEOMETRY_INPUT__"
                         },
                         {
                           "name": "Dist",
-                          "ioValue": 152
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -10490,8 +10480,7 @@
                         },
                         {
                           "name": "xDist",
-                          "ioValue": 1219.1999999999998,
-                          "currentEquation": "(96/2)*25.4"
+                          "ioValue": 1219.1999999999998
                         },
                         {
                           "name": "yDist",
@@ -10544,13 +10533,11 @@
                           "ioValues": [
                             {
                               "name": "x length",
-                              "ioValue": 23.875999999999998,
-                              "currentEquation": "25.4*.94"
+                              "ioValue": 23.875999999999998
                             },
                             {
                               "name": "y length",
-                              "ioValue": 139.7,
-                              "currentEquation": "25.4*5.5"
+                              "ioValue": 139.7
                             }
                           ]
                         },
@@ -10566,8 +10553,7 @@
                             },
                             {
                               "name": "height",
-                              "ioValue": 2438.3999999999996,
-                              "currentEquation": "25.4*96"
+                              "ioValue": 2438.3999999999996
                             }
                           ]
                         },
@@ -10615,8 +10601,7 @@
                             },
                             {
                               "name": "zDist",
-                              "ioValue": 11.937999999999999,
-                              "currentEquation": "25.4*.94/2"
+                              "ioValue": 11.937999999999999
                             }
                           ]
                         }
@@ -10839,8 +10824,7 @@
                         },
                         {
                           "name": "zDist",
-                          "ioValue": 9,
-                          "currentEquation": "18/2"
+                          "ioValue": 9
                         }
                       ]
                     },
@@ -10856,8 +10840,7 @@
                         },
                         {
                           "name": "xDist",
-                          "ioValue": 1219.1999999999998,
-                          "currentEquation": "48*25.4"
+                          "ioValue": 1219.1999999999998
                         },
                         {
                           "name": "yDist",
@@ -10881,8 +10864,7 @@
                         },
                         {
                           "name": "xDist",
-                          "ioValue": 1219.1999999999998,
-                          "currentEquation": "48*25.4"
+                          "ioValue": 1219.1999999999998
                         },
                         {
                           "name": "yDist",
@@ -10972,13 +10954,11 @@
                           "ioValues": [
                             {
                               "name": "x length",
-                              "ioValue": 2438.3999999999996,
-                              "currentEquation": "96*25.4"
+                              "ioValue": 2438.3999999999996
                             },
                             {
                               "name": "y length",
-                              "ioValue": 1219.1999999999998,
-                              "currentEquation": "48*25.4"
+                              "ioValue": 1219.1999999999998
                             }
                           ]
                         },
@@ -11253,12 +11233,16 @@
                       "uniqueID": "id-115478",
                       "ioValues": [
                         {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
+                        },
+                        {
                           "name": "Number",
-                          "ioValue": 5
+                          "ioValue": "__GEOMETRY_INPUT__"
                         },
                         {
                           "name": "Dist",
-                          "ioValue": 1219.1999999999998
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -12086,8 +12070,7 @@
                             },
                             {
                               "name": "height",
-                              "ioValue": 1219.1999999999998,
-                              "currentEquation": "48*25.4"
+                              "ioValue": 1219.1999999999998
                             }
                           ]
                         },
@@ -12131,8 +12114,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": 12.5,
-                              "currentEquation": "25/2"
+                              "ioValue": 12.5
                             },
                             {
                               "name": "zDist",
@@ -12333,8 +12315,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": 609.6,
-                              "currentEquation": "1219.2/2"
+                              "ioValue": 609.6
                             },
                             {
                               "name": "zDist",
@@ -12358,8 +12339,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": -609.6,
-                              "currentEquation": "1219.2/-2"
+                              "ioValue": -609.6
                             },
                             {
                               "name": "zDist",
@@ -12594,8 +12574,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": 1209.2,
-                              "currentEquation": "2418.4/2"
+                              "ioValue": 1209.2
                             },
                             {
                               "name": "yDist",
@@ -12619,8 +12598,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": -1209.2,
-                              "currentEquation": "2418.4/-2"
+                              "ioValue": -1209.2
                             },
                             {
                               "name": "yDist",
@@ -12672,8 +12650,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": 609.6,
-                              "currentEquation": "1219.2/2"
+                              "ioValue": 609.6
                             },
                             {
                               "name": "zDist",
@@ -12697,8 +12674,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": -609.6,
-                              "currentEquation": "1219.2/-2"
+                              "ioValue": -609.6
                             },
                             {
                               "name": "zDist",
@@ -13144,7 +13120,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -13223,7 +13201,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -13302,7 +13282,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -13381,7 +13363,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -13460,7 +13444,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -13837,7 +13823,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -15480,8 +15468,7 @@
                             },
                             {
                               "name": "height",
-                              "ioValue": 1219.1999999999998,
-                              "currentEquation": "48*25.4"
+                              "ioValue": 1219.1999999999998
                             }
                           ]
                         },
@@ -15525,8 +15512,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": 12.5,
-                              "currentEquation": "25/2"
+                              "ioValue": 12.5
                             },
                             {
                               "name": "zDist",
@@ -15727,8 +15713,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": 609.6,
-                              "currentEquation": "1219.2/2"
+                              "ioValue": 609.6
                             },
                             {
                               "name": "zDist",
@@ -15752,8 +15737,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": -609.6,
-                              "currentEquation": "1219.2/-2"
+                              "ioValue": -609.6
                             },
                             {
                               "name": "zDist",
@@ -15988,8 +15972,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": 1209.2,
-                              "currentEquation": "2418.4/2"
+                              "ioValue": 1209.2
                             },
                             {
                               "name": "yDist",
@@ -16013,8 +15996,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": -1209.2,
-                              "currentEquation": "2418.4/-2"
+                              "ioValue": -1209.2
                             },
                             {
                               "name": "yDist",
@@ -16066,8 +16048,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": 609.6,
-                              "currentEquation": "1219.2/2"
+                              "ioValue": 609.6
                             },
                             {
                               "name": "zDist",
@@ -16091,8 +16072,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": -609.6,
-                              "currentEquation": "1219.2/-2"
+                              "ioValue": -609.6
                             },
                             {
                               "name": "zDist",
@@ -16538,7 +16518,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -16617,7 +16599,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -16696,7 +16680,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -16775,7 +16761,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -16854,7 +16842,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -17231,7 +17221,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -18216,8 +18208,7 @@
                         },
                         {
                           "name": "zDist",
-                          "ioValue": -640,
-                          "currentEquation": "-180-460"
+                          "ioValue": -640
                         }
                       ]
                     },
@@ -19141,7 +19132,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 }
                               ]
                             }
@@ -19713,7 +19704,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 }
                               ]
                             }
@@ -20450,7 +20441,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 }
                               ]
                             }
@@ -21856,7 +21847,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 }
                               ]
                             }
@@ -22428,7 +22419,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 }
                               ]
                             }
@@ -22676,23 +22667,23 @@
                               "uniqueID": "id-194408",
                               "ioValues": [
                                 {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
+                                },
+                                {
                                   "name": "Number",
-                                  "ioValue": 4
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "distX",
-                                  "ioValue": 90
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "distY",
-                                  "ioValue": 0
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "distZ",
-                                  "ioValue": 0
-                                },
-                                {
-                                  "name": "Shape",
                                   "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
@@ -22744,6 +22735,10 @@
                               "y": 0.28787878787878785,
                               "uniqueID": "id-194413",
                               "ioValues": [
+                                {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
+                                },
                                 {
                                   "name": "Number",
                                   "ioValue": "__GEOMETRY_INPUT__"
@@ -23839,7 +23834,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 }
                               ]
                             }
@@ -24411,7 +24406,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 }
                               ]
                             }
@@ -24659,20 +24654,24 @@
                               "uniqueID": "id-194298",
                               "ioValues": [
                                 {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
+                                },
+                                {
                                   "name": "Number",
-                                  "ioValue": 4
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "distX",
-                                  "ioValue": 90
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "distY",
-                                  "ioValue": 0
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "distZ",
-                                  "ioValue": 0
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -25068,20 +25067,24 @@
                               "uniqueID": "id-194340",
                               "ioValues": [
                                 {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
+                                },
+                                {
                                   "name": "Number",
-                                  "ioValue": 4
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "distX",
-                                  "ioValue": 0
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "distY",
-                                  "ioValue": 75
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "distZ",
-                                  "ioValue": 0
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -25424,8 +25427,7 @@
                               "ioValues": [
                                 {
                                   "name": "diameter",
-                                  "ioValue": 25.4,
-                                  "currentEquation": "1*25.4"
+                                  "ioValue": 25.4
                                 }
                               ]
                             },
@@ -25489,8 +25491,7 @@
                                 },
                                 {
                                   "name": "y length",
-                                  "ioValue": 38.099999999999994,
-                                  "currentEquation": "1.5*25.4"
+                                  "ioValue": 38.099999999999994
                                 }
                               ]
                             },
@@ -25600,7 +25601,9 @@
                                 },
                                 {
                                   "name": "Shape 4",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -25644,8 +25647,7 @@
                                 },
                                 {
                                   "name": "height",
-                                  "ioValue": 38.099999999999994,
-                                  "currentEquation": "1.5*25.4"
+                                  "ioValue": 38.099999999999994
                                 }
                               ]
                             },
@@ -26602,8 +26604,7 @@
                 },
                 {
                   "name": "zDist",
-                  "ioValue": 193,
-                  "currentEquation": "200-7"
+                  "ioValue": 193
                 }
               ]
             },
@@ -26938,7 +26939,9 @@
                     },
                     {
                       "name": "Shape 3",
-                      "ioValue": null
+                      "ioValue": {
+                        "__NO_GEOMETRY__": true
+                      }
                     }
                   ]
                 },
@@ -27068,7 +27071,9 @@
                     },
                     {
                       "name": "Shape 3",
-                      "ioValue": null
+                      "ioValue": {
+                        "__NO_GEOMETRY__": true
+                      }
                     }
                   ],
                   "closedSelection": 0
@@ -27617,6 +27622,10 @@
                       "uniqueID": "id-173428",
                       "ioValues": [
                         {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
+                        },
+                        {
                           "name": "Number",
                           "ioValue": "__GEOMETRY_INPUT__"
                         },
@@ -27967,7 +27976,7 @@
                             },
                             {
                               "name": "Shape 3",
-                              "ioValue": ""
+                              "ioValue": null
                             }
                           ],
                           "closedSelection": 0
@@ -28021,7 +28030,7 @@
                             {
                               "name": "Item Name",
                               "ioValue": "1.25in screw",
-                              "currentEquation": "#6 Screw"
+                              "currentEquation": "1.25in screw"
                             },
                             {
                               "name": "Number Needed",
@@ -28379,7 +28388,9 @@
                             },
                             {
                               "name": "Shape 3",
-                              "ioValue": null
+                              "ioValue": {
+                                "__NO_GEOMETRY__": true
+                              }
                             }
                           ]
                         }
@@ -29207,8 +29218,7 @@
                       "ioValues": [
                         {
                           "name": "diameter",
-                          "ioValue": 101.6,
-                          "currentEquation": "4*25.4"
+                          "ioValue": 101.6
                         }
                       ]
                     },
@@ -29647,8 +29657,7 @@
                         },
                         {
                           "name": "xDist",
-                          "ioValue": 37.5,
-                          "currentEquation": "75/2"
+                          "ioValue": 37.5
                         },
                         {
                           "name": "yDist",
@@ -29672,8 +29681,7 @@
                         },
                         {
                           "name": "xDist",
-                          "ioValue": -37.5,
-                          "currentEquation": "-75/2"
+                          "ioValue": -37.5
                         },
                         {
                           "name": "yDist",
@@ -29789,8 +29797,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": -37.5,
-                              "currentEquation": "-75/2"
+                              "ioValue": -37.5
                             },
                             {
                               "name": "yDist",
@@ -29814,8 +29821,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": 37.5,
-                              "currentEquation": "75/2"
+                              "ioValue": 37.5
                             },
                             {
                               "name": "yDist",
@@ -30011,13 +30017,11 @@
                                 },
                                 {
                                   "name": "xDist",
-                                  "ioValue": -47.5,
-                                  "currentEquation": "-95/2"
+                                  "ioValue": -47.5
                                 },
                                 {
                                   "name": "yDist",
-                                  "ioValue": 37.5,
-                                  "currentEquation": "75/2"
+                                  "ioValue": 37.5
                                 },
                                 {
                                   "name": "zDist",
@@ -30037,13 +30041,11 @@
                                 },
                                 {
                                   "name": "xDist",
-                                  "ioValue": -47.5,
-                                  "currentEquation": "-95/2"
+                                  "ioValue": -47.5
                                 },
                                 {
                                   "name": "yDist",
-                                  "ioValue": -37.5,
-                                  "currentEquation": "-75/2"
+                                  "ioValue": -37.5
                                 },
                                 {
                                   "name": "zDist",
@@ -30460,6 +30462,16 @@
                                   "x": 0.4920634920634921,
                                   "y": 0.5766016713091923,
                                   "uniqueID": "id-173550",
+                                  "ioValues": [
+                                    {
+                                      "name": "inputShape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
+                                    {
+                                      "name": "radius",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    }
+                                  ],
                                   "codeVersion": 1,
                                   "code": "      //Inputs:[inputShape, radius]\n      //This defines the molecules inputs and creates variables with the same names which can be referenced in the code\n      \n      //Takes the address and gets the shape from the library\n      let importedShape = library[inputShape]\n      \n      //This makes a new copy of of the shape (to prevent garbage collection issues),\n      //and moves it in the X direction. Note that this will not work if the input is an assembly\n      let chamferedShape = await Fillet(inputShape, radius);\n      \n      \n      //Shapes stored in the library have tags, a color, a plane, and a bill of materials like this. We don't modify them here\n      let shape1 = {\n        geometry: [chamferedShape],\n        tags: importedShape.tags,\n        color: importedShape.color,\n        plane: importedShape.plane,\n        bom: importedShape.bom\n      }\n      \n      //We could at this point return shape1 as a complete shape and it will be automatically written to the library for us\n      return shape1"
                                 },
@@ -30469,6 +30481,10 @@
                                   "y": 0.777158774373259,
                                   "uniqueID": "id-173551",
                                   "ioValues": [
+                                    {
+                                      "name": "inputShape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
                                     {
                                       "name": "radius",
                                       "ioValue": "__GEOMETRY_INPUT__"
@@ -30683,8 +30699,7 @@
                                 },
                                 {
                                   "name": "xDist",
-                                  "ioValue": -42,
-                                  "currentEquation": "-104/2+10"
+                                  "ioValue": -42
                                 },
                                 {
                                   "name": "yDist",
@@ -30708,8 +30723,7 @@
                                 },
                                 {
                                   "name": "xDist",
-                                  "ioValue": 42,
-                                  "currentEquation": "104/2-10"
+                                  "ioValue": 42
                                 },
                                 {
                                   "name": "yDist",
@@ -30796,7 +30810,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -30844,8 +30860,7 @@
                                 },
                                 {
                                   "name": "xDist",
-                                  "ioValue": -38.5,
-                                  "currentEquation": "-77/2"
+                                  "ioValue": -38.5
                                 },
                                 {
                                   "name": "yDist",
@@ -30869,8 +30884,7 @@
                                 },
                                 {
                                   "name": "xDist",
-                                  "ioValue": 38.5,
-                                  "currentEquation": "77/2"
+                                  "ioValue": 38.5
                                 },
                                 {
                                   "name": "yDist",
@@ -31390,7 +31404,7 @@
                                     },
                                     {
                                       "name": "Shape 5",
-                                      "ioValue": ""
+                                      "ioValue": null
                                     }
                                   ]
                                 }
@@ -32663,11 +32677,11 @@
                           "ioValues": [
                             {
                               "name": "teeth",
-                              "ioValue": 11
+                              "ioValue": "__GEOMETRY_INPUT__"
                             },
                             {
                               "name": "step",
-                              "ioValue": 9.2
+                              "ioValue": "__GEOMETRY_INPUT__"
                             },
                             {
                               "name": "height",
@@ -32867,7 +32881,9 @@
                             },
                             {
                               "name": "Shape 4",
-                              "ioValue": null
+                              "ioValue": {
+                                "__NO_GEOMETRY__": true
+                              }
                             }
                           ],
                           "closedSelection": 0
@@ -32989,8 +33005,7 @@
                             },
                             {
                               "name": "Angle",
-                              "ioValue": 120,
-                              "currentEquation": "360/3"
+                              "ioValue": 120
                             }
                           ],
                           "topLevel": false,
@@ -33402,7 +33417,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ],
                               "closedSelection": 0
@@ -34368,7 +34385,7 @@
                                         {
                                           "name": "Item Name",
                                           "ioValue": "32mm M3 Bolt",
-                                          "currentEquation": "New Item"
+                                          "currentEquation": "32mm M3 Bolt"
                                         },
                                         {
                                           "name": "Number Needed",
@@ -34754,8 +34771,7 @@
                                     },
                                     {
                                       "name": "Angle",
-                                      "ioValue": 72,
-                                      "currentEquation": "360/5"
+                                      "ioValue": 72
                                     }
                                   ],
                                   "topLevel": false,
@@ -35592,11 +35608,11 @@
                               "ioValues": [
                                 {
                                   "name": "teeth",
-                                  "ioValue": 11
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "step",
-                                  "ioValue": 9.2
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "height",
@@ -36705,7 +36721,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 }
                               ]
                             }
@@ -37021,6 +37037,10 @@
                               "y": 0.28787878787878785,
                               "uniqueID": "id-173809",
                               "ioValues": [
+                                {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
+                                },
                                 {
                                   "name": "Number",
                                   "ioValue": "__GEOMETRY_INPUT__"
@@ -37504,8 +37524,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": -15,
-                              "currentEquation": "-19+4"
+                              "ioValue": -15
                             },
                             {
                               "name": "yDist",
@@ -37867,7 +37886,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             }
@@ -37975,8 +37996,7 @@
                                 },
                                 {
                                   "name": "zDist",
-                                  "ioValue": 50,
-                                  "currentEquation": "43+7"
+                                  "ioValue": 50
                                 }
                               ]
                             },
@@ -38172,8 +38192,7 @@
                                 },
                                 {
                                   "name": "xDist",
-                                  "ioValue": 29.5,
-                                  "currentEquation": "65/2-3"
+                                  "ioValue": 29.5
                                 },
                                 {
                                   "name": "yDist",
@@ -39260,8 +39279,7 @@
                                     },
                                     {
                                       "name": "Angle",
-                                      "ioValue": 45,
-                                      "currentEquation": "360/8"
+                                      "ioValue": 45
                                     }
                                   ],
                                   "topLevel": false,
@@ -42650,7 +42668,7 @@
                 {
                   "name": "Item Name",
                   "ioValue": "Harbor Frieght Trailer",
-                  "currentEquation": "New Item"
+                  "currentEquation": "Harbor Frieght Trailer"
                 },
                 {
                   "name": "Number Needed",
@@ -42900,8 +42918,7 @@
                   "ioValues": [
                     {
                       "name": "diameter",
-                      "ioValue": 609.5999999999999,
-                      "currentEquation": "12*25.4*2"
+                      "ioValue": 609.5999999999999
                     }
                   ]
                 },
@@ -42917,8 +42934,7 @@
                     },
                     {
                       "name": "height",
-                      "ioValue": 134.61999999999998,
-                      "currentEquation": "5.3*25.4"
+                      "ioValue": 134.61999999999998
                     }
                   ]
                 },
@@ -43099,13 +43115,11 @@
                   "ioValues": [
                     {
                       "name": "x length",
-                      "ioValue": 2438.3999999999996,
-                      "currentEquation": "96*25.4"
+                      "ioValue": 2438.3999999999996
                     },
                     {
                       "name": "y length",
-                      "ioValue": 1219.1999999999998,
-                      "currentEquation": "48*25.4"
+                      "ioValue": 1219.1999999999998
                     }
                   ]
                 },
@@ -45840,12 +45854,16 @@
                       "uniqueID": "id-195874",
                       "ioValues": [
                         {
+                          "name": "Shape",
+                          "ioValue": "__GEOMETRY_INPUT__"
+                        },
+                        {
                           "name": "Number",
-                          "ioValue": 20
+                          "ioValue": "__GEOMETRY_INPUT__"
                         },
                         {
                           "name": "Dist",
-                          "ioValue": 107.47
+                          "ioValue": "__GEOMETRY_INPUT__"
                         }
                       ],
                       "codeVersion": 1,
@@ -46569,11 +46587,11 @@
                           "ioValues": [
                             {
                               "name": "thickness",
-                              "ioValue": 2438.4
+                              "ioValue": "__GEOMETRY_INPUT__"
                             },
                             {
                               "name": "numBumps",
-                              "ioValue": 79
+                              "ioValue": "__GEOMETRY_INPUT__"
                             }
                           ],
                           "codeVersion": 1,
@@ -47421,13 +47439,11 @@
                       "ioValues": [
                         {
                           "name": "x length",
-                          "ioValue": 330.2,
-                          "currentEquation": "13*25.4"
+                          "ioValue": 330.2
                         },
                         {
                           "name": "y length",
-                          "ioValue": 711.1999999999999,
-                          "currentEquation": "28*25.4"
+                          "ioValue": 711.1999999999999
                         }
                       ]
                     },
@@ -47827,8 +47843,7 @@
                         },
                         {
                           "name": "xDist",
-                          "ioValue": 197.5,
-                          "currentEquation": "235/-2 + 315"
+                          "ioValue": 197.5
                         },
                         {
                           "name": "yDist",
@@ -48005,8 +48020,7 @@
                         },
                         {
                           "name": "yDist",
-                          "ioValue": 117.5,
-                          "currentEquation": "235/2"
+                          "ioValue": 117.5
                         },
                         {
                           "name": "zDist",
@@ -48030,8 +48044,7 @@
                         },
                         {
                           "name": "yDist",
-                          "ioValue": -117.5,
-                          "currentEquation": "235/-2"
+                          "ioValue": -117.5
                         },
                         {
                           "name": "zDist",
@@ -48944,12 +48957,16 @@
                           "uniqueID": "id-196002",
                           "ioValues": [
                             {
+                              "name": "Shape",
+                              "ioValue": "__GEOMETRY_INPUT__"
+                            },
+                            {
                               "name": "Number",
-                              "ioValue": 6
+                              "ioValue": "__GEOMETRY_INPUT__"
                             },
                             {
                               "name": "Angle",
-                              "ioValue": 60
+                              "ioValue": "__GEOMETRY_INPUT__"
                             }
                           ],
                           "codeVersion": 1,
@@ -49372,7 +49389,7 @@
                             },
                             {
                               "name": "Shape 3",
-                              "ioValue": ""
+                              "ioValue": null
                             },
                             {
                               "name": "Shape 1",
@@ -49451,7 +49468,7 @@
                             },
                             {
                               "name": "Shape 3",
-                              "ioValue": ""
+                              "ioValue": null
                             },
                             {
                               "name": "Shape 1",
@@ -49887,7 +49904,7 @@
                               "ioValues": [
                                 {
                                   "name": "radius",
-                                  "ioValue": 740
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -49977,7 +49994,7 @@
                               "ioValues": [
                                 {
                                   "name": "radius",
-                                  "ioValue": 750
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -50685,15 +50702,15 @@
                               "ioValues": [
                                 {
                                   "name": "angle",
-                                  "ioValue": 90
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "height",
-                                  "ioValue": 2000
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "thickness",
-                                  "ioValue": 100
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -50864,12 +50881,16 @@
                               "uniqueID": "id-196086",
                               "ioValues": [
                                 {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
+                                },
+                                {
                                   "name": "Number",
-                                  "ioValue": 4
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "Angle",
-                                  "ioValue": 90
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -51338,7 +51359,7 @@
                             {
                               "name": "File Type",
                               "ioValue": "SVG",
-                              "currentEquation": "STL"
+                              "currentEquation": "SVG"
                             },
                             {
                               "name": "Resolution (dpi)",
@@ -51397,15 +51418,15 @@
                               "ioValues": [
                                 {
                                   "name": "angle",
-                                  "ioValue": 70
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "height",
-                                  "ioValue": 2000
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "thickness",
-                                  "ioValue": 100
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -52321,8 +52342,7 @@
                         },
                         {
                           "name": "xDist",
-                          "ioValue": 1371.6,
-                          "currentEquation": "2743.2/2"
+                          "ioValue": 1371.6
                         },
                         {
                           "name": "yDist",
@@ -52346,8 +52366,7 @@
                         },
                         {
                           "name": "xDist",
-                          "ioValue": -1371.6,
-                          "currentEquation": "-2743.2/2"
+                          "ioValue": -1371.6
                         },
                         {
                           "name": "yDist",
@@ -52501,15 +52520,15 @@
                               "ioValues": [
                                 {
                                   "name": "angle",
-                                  "ioValue": 45
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "height",
-                                  "ioValue": 2000
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "thickness",
-                                  "ioValue": 12
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -52679,12 +52698,16 @@
                               "uniqueID": "id-196164",
                               "ioValues": [
                                 {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
+                                },
+                                {
                                   "name": "Number",
-                                  "ioValue": 8
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "Angle",
-                                  "ioValue": 45
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -54895,15 +54918,15 @@
                               "ioValues": [
                                 {
                                   "name": "Shape",
-                                  "ioValue": 10
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "Number",
-                                  "ioValue": 4
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "Dist",
-                                  "ioValue": 800
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -55033,12 +55056,16 @@
                               "uniqueID": "id-196248",
                               "ioValues": [
                                 {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
+                                },
+                                {
                                   "name": "Number",
-                                  "ioValue": 5
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "Dist",
-                                  "ioValue": 800
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -55442,7 +55469,7 @@
                     {
                       "name": "Part Name",
                       "ioValue": "Frame with Feedrate",
-                      "currentEquation": "Door"
+                      "currentEquation": "Frame with Feedrate"
                     }
                   ],
                   "partName": "Frame with Feedrate",
@@ -56218,7 +56245,7 @@
                             },
                             {
                               "name": "Shape 5",
-                              "ioValue": ""
+                              "ioValue": null
                             },
                             {
                               "name": "Shape 1",
@@ -57148,7 +57175,7 @@
                             },
                             {
                               "name": "Shape 5",
-                              "ioValue": ""
+                              "ioValue": null
                             },
                             {
                               "name": "Shape 1",
@@ -58091,7 +58118,7 @@
                             },
                             {
                               "name": "Shape 5",
-                              "ioValue": ""
+                              "ioValue": null
                             },
                             {
                               "name": "Shape 1",
@@ -58490,7 +58517,7 @@
                         {
                           "name": "Item Name",
                           "ioValue": "Door Hinge",
-                          "currentEquation": "New Item"
+                          "currentEquation": "Door Hinge"
                         },
                         {
                           "name": "Number Needed",
@@ -58534,13 +58561,11 @@
                       "ioValues": [
                         {
                           "name": "Width",
-                          "ioValue": 88.89999999999999,
-                          "currentEquation": "3.5*25.4"
+                          "ioValue": 88.89999999999999
                         },
                         {
                           "name": "Height",
-                          "ioValue": 63.5,
-                          "currentEquation": "2.5*25.4"
+                          "ioValue": 63.5
                         },
                         {
                           "name": "Radius",
@@ -58824,7 +58849,7 @@
                             },
                             {
                               "name": "Shape 5",
-                              "ioValue": ""
+                              "ioValue": null
                             },
                             {
                               "name": "Shape 1",
@@ -59520,8 +59545,12 @@
                               "uniqueID": "id-196404",
                               "ioValues": [
                                 {
+                                  "name": "inputShape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
+                                },
+                                {
                                   "name": "radius",
-                                  "ioValue": 3
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
                               "codeVersion": 1,
@@ -60311,7 +60340,7 @@
                                     },
                                     {
                                       "name": "Shape 5",
-                                      "ioValue": ""
+                                      "ioValue": null
                                     },
                                     {
                                       "name": "Shape 1",
@@ -60882,7 +60911,7 @@
                                     },
                                     {
                                       "name": "Shape 5",
-                                      "ioValue": ""
+                                      "ioValue": null
                                     },
                                     {
                                       "name": "Shape 1",
@@ -61456,7 +61485,7 @@
                                     },
                                     {
                                       "name": "Shape 3",
-                                      "ioValue": ""
+                                      "ioValue": null
                                     },
                                     {
                                       "name": "Shape 1",
@@ -61854,7 +61883,9 @@
                                     },
                                     {
                                       "name": "Shape 3",
-                                      "ioValue": null
+                                      "ioValue": {
+                                        "__NO_GEOMETRY__": true
+                                      }
                                     }
                                   ],
                                   "closedSelection": 0
@@ -61936,7 +61967,7 @@
                                     {
                                       "name": "Item Name",
                                       "ioValue": "5x14mm wood screw",
-                                      "currentEquation": "New Item"
+                                      "currentEquation": "5x14mm wood screw"
                                     },
                                     {
                                       "name": "Number Needed",
@@ -62475,8 +62506,7 @@
                     },
                     {
                       "name": "xDist",
-                      "ioValue": -179.07,
-                      "currentEquation": "-7.05*25.4"
+                      "ioValue": -179.07
                     },
                     {
                       "name": "yDist",
@@ -62520,8 +62550,7 @@
                     },
                     {
                       "name": "xDist",
-                      "ioValue": -179.07,
-                      "currentEquation": "-7.05*25.4"
+                      "ioValue": -179.07
                     },
                     {
                       "name": "yDist",
@@ -62753,13 +62782,11 @@
                       "ioValues": [
                         {
                           "name": "x length",
-                          "ioValue": 177.79999999999998,
-                          "currentEquation": "7*25.4"
+                          "ioValue": 177.79999999999998
                         },
                         {
                           "name": "y length",
-                          "ioValue": 495.29999999999995,
-                          "currentEquation": "19.5*25.4"
+                          "ioValue": 495.29999999999995
                         }
                       ]
                     },
@@ -62806,7 +62833,7 @@
                         {
                           "name": "Item Name",
                           "ioValue": "Floor Tile",
-                          "currentEquation": "New Item"
+                          "currentEquation": "Floor Tile"
                         },
                         {
                           "name": "Number Needed",
@@ -62881,13 +62908,11 @@
                       "ioValues": [
                         {
                           "name": "x length",
-                          "ioValue": 152.39999999999998,
-                          "currentEquation": "6*25.4"
+                          "ioValue": 152.39999999999998
                         },
                         {
                           "name": "y length",
-                          "ioValue": 355.59999999999997,
-                          "currentEquation": "14*25.4"
+                          "ioValue": 355.59999999999997
                         }
                       ]
                     },
@@ -63032,7 +63057,7 @@
                         {
                           "name": "Item Name",
                           "ioValue": "End Cap",
-                          "currentEquation": "New Item"
+                          "currentEquation": "End Cap"
                         },
                         {
                           "name": "Number Needed",
@@ -63145,13 +63170,11 @@
                       "ioValues": [
                         {
                           "name": "Width",
-                          "ioValue": 38.099999999999994,
-                          "currentEquation": "1.5*25.4"
+                          "ioValue": 38.099999999999994
                         },
                         {
                           "name": "Height",
-                          "ioValue": 38.099999999999994,
-                          "currentEquation": "1.5*25.4"
+                          "ioValue": 38.099999999999994
                         },
                         {
                           "name": "Radius",
@@ -63543,7 +63566,7 @@
                             },
                             {
                               "name": "Shape 5",
-                              "ioValue": ""
+                              "ioValue": null
                             }
                           ]
                         }
@@ -63847,8 +63870,7 @@
                           "ioValues": [
                             {
                               "name": "x length",
-                              "ioValue": 1219.1999999999998,
-                              "currentEquation": "4*12*25.4"
+                              "ioValue": 1219.1999999999998
                             },
                             {
                               "name": "y length",
@@ -63899,7 +63921,7 @@
                             {
                               "name": "Item Name",
                               "ioValue": "Lath",
-                              "currentEquation": "New Item"
+                              "currentEquation": "Lath"
                             },
                             {
                               "name": "Number Needed",
@@ -64364,8 +64386,7 @@
                             },
                             {
                               "name": "height",
-                              "ioValue": 1188.7199999999998,
-                              "currentEquation": "3.9*12*25.4"
+                              "ioValue": 1188.7199999999998
                             }
                           ]
                         },
@@ -64389,8 +64410,7 @@
                             },
                             {
                               "name": "zDist",
-                              "ioValue": -594.3599999999999,
-                              "currentEquation": "(3.9*12*25.4)/-2"
+                              "ioValue": -594.3599999999999
                             }
                           ]
                         },
@@ -64493,7 +64513,7 @@
                             {
                               "name": "Item Name",
                               "ioValue": "LED Light Strip",
-                              "currentEquation": "New Item"
+                              "currentEquation": "LED Light Strip"
                             },
                             {
                               "name": "Number Needed",
@@ -64524,8 +64544,7 @@
                           "ioValues": [
                             {
                               "name": "Width",
-                              "ioValue": 2.4,
-                              "currentEquation": "1.2*2"
+                              "ioValue": 2.4
                             },
                             {
                               "name": "Height",
@@ -64813,7 +64832,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 },
                                 {
                                   "name": "Shape 1",
@@ -65605,7 +65624,9 @@
                                     },
                                     {
                                       "name": "Shape 3",
-                                      "ioValue": null
+                                      "ioValue": {
+                                        "__NO_GEOMETRY__": true
+                                      }
                                     }
                                   ],
                                   "closedSelection": 0
@@ -65687,7 +65708,7 @@
                                     {
                                       "name": "Item Name",
                                       "ioValue": "5x14mm wood screw",
-                                      "currentEquation": "New Item"
+                                      "currentEquation": "5x14mm wood screw"
                                     },
                                     {
                                       "name": "Number Needed",
@@ -66036,8 +66057,7 @@
                                 },
                                 {
                                   "name": "xDist",
-                                  "ioValue": -624.5999999999999,
-                                  "currentEquation": "-2*12*25.4-15"
+                                  "ioValue": -624.5999999999999
                                 },
                                 {
                                   "name": "yDist",
@@ -66837,8 +66857,12 @@
                                   "uniqueID": "id-196676",
                                   "ioValues": [
                                     {
+                                      "name": "inputShape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
+                                    {
                                       "name": "radius",
-                                      "ioValue": 5
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -67400,7 +67424,7 @@
                                     },
                                     {
                                       "name": "Shape 3",
-                                      "ioValue": ""
+                                      "ioValue": null
                                     },
                                     {
                                       "name": "Shape 1",
@@ -67799,7 +67823,9 @@
                                     },
                                     {
                                       "name": "Shape 3",
-                                      "ioValue": null
+                                      "ioValue": {
+                                        "__NO_GEOMETRY__": true
+                                      }
                                     }
                                   ],
                                   "closedSelection": 0
@@ -67881,7 +67907,7 @@
                                     {
                                       "name": "Item Name",
                                       "ioValue": "5x14mm wood screw",
-                                      "currentEquation": "New Item"
+                                      "currentEquation": "5x14mm wood screw"
                                     },
                                     {
                                       "name": "Number Needed",
@@ -69260,20 +69286,24 @@
                           "uniqueID": "id-196749",
                           "ioValues": [
                             {
+                              "name": "Shape",
+                              "ioValue": "__GEOMETRY_INPUT__"
+                            },
+                            {
                               "name": "Number",
-                              "ioValue": 5
+                              "ioValue": "__GEOMETRY_INPUT__"
                             },
                             {
                               "name": "distX",
-                              "ioValue": 400
+                              "ioValue": "__GEOMETRY_INPUT__"
                             },
                             {
                               "name": "distY",
-                              "ioValue": 0
+                              "ioValue": "__GEOMETRY_INPUT__"
                             },
                             {
                               "name": "distZ",
-                              "ioValue": 0
+                              "ioValue": "__GEOMETRY_INPUT__"
                             }
                           ],
                           "codeVersion": 1,
@@ -69539,8 +69569,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": -175,
-                              "currentEquation": "-350/2"
+                              "ioValue": -175
                             },
                             {
                               "name": "zDist",
@@ -69823,7 +69852,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -70161,7 +70192,9 @@
                             },
                             {
                               "name": "Shape 3",
-                              "ioValue": null
+                              "ioValue": {
+                                "__NO_GEOMETRY__": true
+                              }
                             }
                           ]
                         },
@@ -70177,8 +70210,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": -307.5,
-                              "currentEquation": "-320+25/2"
+                              "ioValue": -307.5
                             },
                             {
                               "name": "yDist",
@@ -70285,8 +70317,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": -160,
-                              "currentEquation": "-320/2"
+                              "ioValue": -160
                             },
                             {
                               "name": "yDist",
@@ -70657,7 +70688,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ]
                             },
@@ -71202,20 +71235,24 @@
                           "uniqueID": "id-196822",
                           "ioValues": [
                             {
+                              "name": "Shape",
+                              "ioValue": "__GEOMETRY_INPUT__"
+                            },
+                            {
                               "name": "Number",
-                              "ioValue": 4
+                              "ioValue": "__GEOMETRY_INPUT__"
                             },
                             {
                               "name": "distX",
-                              "ioValue": 400
+                              "ioValue": "__GEOMETRY_INPUT__"
                             },
                             {
                               "name": "distY",
-                              "ioValue": 0
+                              "ioValue": "__GEOMETRY_INPUT__"
                             },
                             {
                               "name": "distZ",
-                              "ioValue": 0
+                              "ioValue": "__GEOMETRY_INPUT__"
                             }
                           ],
                           "codeVersion": 1,
@@ -71266,6 +71303,10 @@
                           "y": 0.28787878787878785,
                           "uniqueID": "id-196827",
                           "ioValues": [
+                            {
+                              "name": "Shape",
+                              "ioValue": "__GEOMETRY_INPUT__"
+                            },
                             {
                               "name": "Number",
                               "ioValue": "__GEOMETRY_INPUT__"
@@ -71584,23 +71625,23 @@
                               "uniqueID": "id-196842",
                               "ioValues": [
                                 {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
+                                },
+                                {
                                   "name": "Number",
-                                  "ioValue": 6
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "distX",
-                                  "ioValue": 0
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "distY",
-                                  "ioValue": 50
+                                  "ioValue": "__GEOMETRY_INPUT__"
                                 },
                                 {
                                   "name": "distZ",
-                                  "ioValue": 0
-                                },
-                                {
-                                  "name": "Shape",
                                   "ioValue": "__GEOMETRY_INPUT__"
                                 }
                               ],
@@ -71652,6 +71693,10 @@
                               "y": 0.28787878787878785,
                               "uniqueID": "id-196847",
                               "ioValues": [
+                                {
+                                  "name": "Shape",
+                                  "ioValue": "__GEOMETRY_INPUT__"
+                                },
                                 {
                                   "name": "Number",
                                   "ioValue": "__GEOMETRY_INPUT__"
@@ -72734,16 +72779,24 @@
                                   "uniqueID": "id-196902",
                                   "ioValues": [
                                     {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
+                                    {
+                                      "name": "Number",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
+                                    {
                                       "name": "distX",
-                                      "ioValue": 40
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     },
                                     {
                                       "name": "distY",
-                                      "ioValue": 0
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     },
                                     {
                                       "name": "distZ",
-                                      "ioValue": 0
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -72794,6 +72847,10 @@
                                   "y": 0.28787878787878785,
                                   "uniqueID": "id-196907",
                                   "ioValues": [
+                                    {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
                                     {
                                       "name": "Number",
                                       "ioValue": "__GEOMETRY_INPUT__"
@@ -72982,20 +73039,24 @@
                                   "uniqueID": "id-196914",
                                   "ioValues": [
                                     {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
+                                    {
                                       "name": "Number",
-                                      "ioValue": 4.1875
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     },
                                     {
                                       "name": "distX",
-                                      "ioValue": 0
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     },
                                     {
                                       "name": "distY",
-                                      "ioValue": 70
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     },
                                     {
                                       "name": "distZ",
-                                      "ioValue": 0
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -73046,6 +73107,10 @@
                                   "y": 0.28787878787878785,
                                   "uniqueID": "id-196919",
                                   "ioValues": [
+                                    {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
                                     {
                                       "name": "Number",
                                       "ioValue": "__GEOMETRY_INPUT__"
@@ -73234,20 +73299,24 @@
                                   "uniqueID": "id-196926",
                                   "ioValues": [
                                     {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
+                                    {
                                       "name": "Number",
-                                      "ioValue": 4.1875
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     },
                                     {
                                       "name": "distX",
-                                      "ioValue": 0
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     },
                                     {
                                       "name": "distY",
-                                      "ioValue": 70
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     },
                                     {
                                       "name": "distZ",
-                                      "ioValue": 0
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -73298,6 +73367,10 @@
                                   "y": 0.28787878787878785,
                                   "uniqueID": "id-196931",
                                   "ioValues": [
+                                    {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
                                     {
                                       "name": "Number",
                                       "ioValue": "__GEOMETRY_INPUT__"
@@ -73932,8 +74005,7 @@
                   "ioValues": [
                     {
                       "name": "diameter",
-                      "ioValue": 101.6,
-                      "currentEquation": "4*25.4"
+                      "ioValue": 101.6
                     }
                   ]
                 },
@@ -74497,8 +74569,7 @@
                       "ioValues": [
                         {
                           "name": "diameter",
-                          "ioValue": 101.6,
-                          "currentEquation": "4*25.4"
+                          "ioValue": 101.6
                         }
                       ]
                     },
@@ -74514,8 +74585,7 @@
                         },
                         {
                           "name": "height",
-                          "ioValue": 101.6,
-                          "currentEquation": "4*25.4"
+                          "ioValue": 101.6
                         }
                       ]
                     },
@@ -74527,8 +74597,7 @@
                       "ioValues": [
                         {
                           "name": "diameter",
-                          "ioValue": 203.2,
-                          "currentEquation": "8*25.4"
+                          "ioValue": 203.2
                         }
                       ]
                     },
@@ -74540,8 +74609,7 @@
                       "ioValues": [
                         {
                           "name": "diameter",
-                          "ioValue": 152.39999999999998,
-                          "currentEquation": "6*25.4"
+                          "ioValue": 152.39999999999998
                         }
                       ]
                     },
@@ -74565,8 +74633,7 @@
                         },
                         {
                           "name": "zDist",
-                          "ioValue": 63.5,
-                          "currentEquation": "2.5*25.4"
+                          "ioValue": 63.5
                         }
                       ]
                     },
@@ -74644,7 +74711,9 @@
                         },
                         {
                           "name": "Shape 3",
-                          "ioValue": null
+                          "ioValue": {
+                            "__NO_GEOMETRY__": true
+                          }
                         }
                       ],
                       "closedSelection": 0
@@ -74669,8 +74738,7 @@
                         },
                         {
                           "name": "zDist",
-                          "ioValue": 101.6,
-                          "currentEquation": "4*25.4"
+                          "ioValue": 101.6
                         }
                       ]
                     },
@@ -74891,8 +74959,7 @@
                       "ioValues": [
                         {
                           "name": "OD",
-                          "ioValue": 336.6,
-                          "currentEquation": "235+25.4*4"
+                          "ioValue": 336.6
                         },
                         {
                           "name": "ID",
@@ -75382,18 +75449,15 @@
                       "ioValues": [
                         {
                           "name": "Width",
-                          "ioValue": 406.4,
-                          "currentEquation": "16*25.4"
+                          "ioValue": 406.4
                         },
                         {
                           "name": "Height",
-                          "ioValue": 406.4,
-                          "currentEquation": "16*25.4"
+                          "ioValue": 406.4
                         },
                         {
                           "name": "Radius",
-                          "ioValue": 25.4,
-                          "currentEquation": "1*25.4"
+                          "ioValue": 25.4
                         }
                       ],
                       "topLevel": false,
@@ -75781,7 +75845,7 @@
                             },
                             {
                               "name": "Shape 5",
-                              "ioValue": ""
+                              "ioValue": null
                             }
                           ]
                         }
@@ -75957,18 +76021,15 @@
                       "ioValues": [
                         {
                           "name": "Width",
-                          "ioValue": 457.2,
-                          "currentEquation": "14*25.4"
+                          "ioValue": 457.2
                         },
                         {
                           "name": "Height",
-                          "ioValue": 457.2,
-                          "currentEquation": "14*25.4"
+                          "ioValue": 457.2
                         },
                         {
                           "name": "Radius",
-                          "ioValue": 50.8,
-                          "currentEquation": "2*25.4"
+                          "ioValue": 50.8
                         }
                       ],
                       "topLevel": false,
@@ -76248,7 +76309,7 @@
                             },
                             {
                               "name": "Shape 5",
-                              "ioValue": ""
+                              "ioValue": null
                             },
                             {
                               "name": "Shape 1",
@@ -76532,8 +76593,7 @@
                       "ioValues": [
                         {
                           "name": "Inside Spacing",
-                          "ioValue": 406.4,
-                          "currentEquation": "16*25.4"
+                          "ioValue": 406.4
                         }
                       ],
                       "topLevel": false,
@@ -76648,13 +76708,11 @@
                           "ioValues": [
                             {
                               "name": "Width",
-                              "ioValue": 406.4,
-                              "currentEquation": "12*25.4"
+                              "ioValue": 406.4
                             },
                             {
                               "name": "Height",
-                              "ioValue": 406.4,
-                              "currentEquation": "12*25.4"
+                              "ioValue": 406.4
                             },
                             {
                               "name": "Radius",
@@ -76938,7 +76996,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 },
                                 {
                                   "name": "Shape 1",
@@ -77222,18 +77280,15 @@
                           "ioValues": [
                             {
                               "name": "Width",
-                              "ioValue": 457.2,
-                              "currentEquation": "14*25.4"
+                              "ioValue": 457.2
                             },
                             {
                               "name": "Height",
-                              "ioValue": 457.2,
-                              "currentEquation": "14*25.4"
+                              "ioValue": 457.2
                             },
                             {
                               "name": "Radius",
-                              "ioValue": 50.8,
-                              "currentEquation": "2*25.4"
+                              "ioValue": 50.8
                             }
                           ],
                           "topLevel": false,
@@ -77513,7 +77568,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 },
                                 {
                                   "name": "Shape 1",
@@ -77990,8 +78045,7 @@
                             },
                             {
                               "name": "yDist",
-                              "ioValue": -13.100000000000001,
-                              "currentEquation": "-98.5+60+25.4"
+                              "ioValue": -13.100000000000001
                             },
                             {
                               "name": "zDist",
@@ -78078,8 +78132,7 @@
                             },
                             {
                               "name": "Radius",
-                              "ioValue": 50.8,
-                              "currentEquation": "2*25.4"
+                              "ioValue": 50.8
                             }
                           ],
                           "topLevel": false,
@@ -78359,7 +78412,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 },
                                 {
                                   "name": "Shape 1",
@@ -79039,7 +79092,7 @@
                                 },
                                 {
                                   "name": "Shape 5",
-                                  "ioValue": ""
+                                  "ioValue": null
                                 }
                               ]
                             }
@@ -79415,20 +79468,24 @@
                                   "uniqueID": "id-197128",
                                   "ioValues": [
                                     {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
+                                    {
                                       "name": "Number",
-                                      "ioValue": 4
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     },
                                     {
                                       "name": "distX",
-                                      "ioValue": 0
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     },
                                     {
                                       "name": "distY",
-                                      "ioValue": 114.3
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     },
                                     {
                                       "name": "distZ",
-                                      "ioValue": 0
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -79479,6 +79536,10 @@
                                   "y": 0.28787878787878785,
                                   "uniqueID": "id-197133",
                                   "ioValues": [
+                                    {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
                                     {
                                       "name": "Number",
                                       "ioValue": "__GEOMETRY_INPUT__"
@@ -79680,12 +79741,16 @@
                                   "uniqueID": "id-197142",
                                   "ioValues": [
                                     {
+                                      "name": "Shape",
+                                      "ioValue": "__GEOMETRY_INPUT__"
+                                    },
+                                    {
                                       "name": "Number",
-                                      "ioValue": 4
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     },
                                     {
                                       "name": "Angle",
-                                      "ioValue": 90
+                                      "ioValue": "__GEOMETRY_INPUT__"
                                     }
                                   ],
                                   "codeVersion": 1,
@@ -80475,8 +80540,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": 150,
-                              "currentEquation": "220-70"
+                              "ioValue": 150
                             },
                             {
                               "name": "yDist",
@@ -81639,8 +81703,7 @@
                             },
                             {
                               "name": "xDist",
-                              "ioValue": 425,
-                              "currentEquation": "500-75"
+                              "ioValue": 425
                             },
                             {
                               "name": "yDist",
@@ -82519,8 +82582,7 @@
                                 },
                                 {
                                   "name": "zDist",
-                                  "ioValue": 125,
-                                  "currentEquation": "55+70"
+                                  "ioValue": 125
                                 }
                               ]
                             },
@@ -82598,7 +82660,9 @@
                                 },
                                 {
                                   "name": "Shape 3",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ],
                               "closedSelection": 0
@@ -82882,7 +82946,9 @@
                                 },
                                 {
                                   "name": "Shape 4",
-                                  "ioValue": null
+                                  "ioValue": {
+                                    "__NO_GEOMETRY__": true
+                                  }
                                 }
                               ],
                               "closedSelection": 0
@@ -83886,8 +83952,7 @@
                               "ioValues": [
                                 {
                                   "name": "diameter",
-                                  "ioValue": 101.6,
-                                  "currentEquation": "4*25.4"
+                                  "ioValue": 101.6
                                 }
                               ]
                             },
@@ -84441,8 +84506,7 @@
                                 },
                                 {
                                   "name": "height",
-                                  "ioValue": 203.2,
-                                  "currentEquation": "8*25.4"
+                                  "ioValue": 203.2
                                 }
                               ]
                             },
@@ -84482,8 +84546,7 @@
                                 },
                                 {
                                   "name": "xDist",
-                                  "ioValue": -101.6,
-                                  "currentEquation": "-4*25.4"
+                                  "ioValue": -101.6
                                 },
                                 {
                                   "name": "yDist",
@@ -84491,8 +84554,7 @@
                                 },
                                 {
                                   "name": "zDist",
-                                  "ioValue": 152.39999999999998,
-                                  "currentEquation": "6*25.4"
+                                  "ioValue": 152.39999999999998
                                 }
                               ]
                             },
@@ -84518,13 +84580,11 @@
                               "ioValues": [
                                 {
                                   "name": "Width",
-                                  "ioValue": 304.79999999999995,
-                                  "currentEquation": "12*25.4"
+                                  "ioValue": 304.79999999999995
                                 },
                                 {
                                   "name": "Height",
-                                  "ioValue": 304.79999999999995,
-                                  "currentEquation": "12*25.4"
+                                  "ioValue": 304.79999999999995
                                 },
                                 {
                                   "name": "Radius",
@@ -84808,7 +84868,7 @@
                                     },
                                     {
                                       "name": "Shape 5",
-                                      "ioValue": ""
+                                      "ioValue": null
                                     },
                                     {
                                       "name": "Shape 1",
@@ -85646,12 +85706,16 @@
                                       "uniqueID": "id-197375",
                                       "ioValues": [
                                         {
+                                          "name": "Shape",
+                                          "ioValue": "__GEOMETRY_INPUT__"
+                                        },
+                                        {
                                           "name": "Number",
-                                          "ioValue": 4
+                                          "ioValue": "__GEOMETRY_INPUT__"
                                         },
                                         {
                                           "name": "Dist",
-                                          "ioValue": 25
+                                          "ioValue": "__GEOMETRY_INPUT__"
                                         }
                                       ],
                                       "codeVersion": 1,
